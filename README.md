@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Abiha</h1>
 <h3 align="center">A passionate Web designer from Pakistan</h3>
 
-- 🌱 I’m currently learning **Flexbox**
+- 🌱 I’m currently learning **Full Stack Web Development**
 
 - 💬 Ask me about **HTML and CSS**
 
