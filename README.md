@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abiha</h1>
 <h3 align="center">A passionate FrontEndDeveloper from Pakistan</h3>
-<image align="center" src="https://media.tenor.com/QVC1Nmb9TwUAAAAj/coding.gif"  alt="codinggirlimg" height="400" width="1000">
+<image align="center" src="https://media.tenor.com/QVC1Nmb9TwUAAAAj/coding.gif"  alt="codinggirlimg" height="500" width="1000">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiha-sheikhani&label=Profile%20views&color=0e75b6&style=flat" alt="abiha-sheikhani" /> </p>
 
 - 🌱 I’m currently learning **Mern Stack Development**
