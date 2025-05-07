@@ -1,3 +1,4 @@
+<image src="https://media.tenor.com/QVC1Nmb9TwUAAAAj/coding.gif" align="center" alt="codinggirlimg">
 <h1 align="center">Hi 👋, I'm Abiha</h1>
 <h3 align="center">A passionate Web designer from Pakistan</h3>
 
@@ -5,7 +6,7 @@
 
 - 🌱 I’m currently learning **Mern Stack Development**
 
-- 💬 Ask me about **HTML and CSS**
+- 💬 Ask me about **FrontEnd Development**
 
 - 📫 How to reach me **abihajawed345@gmail.com**
 
