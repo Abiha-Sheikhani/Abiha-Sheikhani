@@ -2,7 +2,7 @@
 <h1 align="center">Hi 👋, I'm Abiha Sheikhani</h1>
 <h3 align="center">A passionate FrontEndDeveloper from Pakistan</h3>
 <hr/>
-<image align="center" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"  alt="codinggirlimg" height="500" width="1000">
+<center><image align="center" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"  alt="codinggirlimg" height="500" width="1000"></center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiha-sheikhani&label=Profile%20views&color=0e75b6&style=flat" alt="abiha-sheikhani" /> </p>
 
 - 🌱 I’m currently learning **Mern Stack Development**
