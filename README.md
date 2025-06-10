@@ -1,27 +1,41 @@
 
-<h1 align="center">Hi 👋, I'm Abiha Sheikhani</h1>
-<h3 align="center">A passionate FrontEndDeveloper from Pakistan</h3>
-<hr/>
+<div class="Box-body p-4">
+    <div class="d-flex flex-justify-between">
+      <div class="text-mono text-small mb-3">
+        <a href="/SaqibKhan000/SaqibKhan000" class="no-underline Link--primary">SaqibKhan000</a><span class="color-fg-muted d-inline-block" style="padding:0px 2px;">/</span>README<span class="color-fg-muted">.md</span>
+      </div>
+
+    </div>
+    <article class="markdown-body entry-content container-lg f5" itemprop="text"><p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8022116d197be273fe653a3de2f397bece3e3775452b4ababecf88a5491da1f3/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652673697a653d32342670617573653d3130303026636f6c6f723d4637303030302663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d48692b49276d2b4d7568616d6d61642b53617169622b4b68616e3b46726f6e74656e642b446576656c6f7065723b492b6275696c642b636f6f6c2b776562736974657321"><img src="https://camo.githubusercontent.com/8022116d197be273fe653a3de2f397bece3e3775452b4ababecf88a5491da1f3/68747470733a2f2f726561646d652d747970696e672d7376672e64656d6f6c61622e636f6d3f666f6e743d466972612b436f64652673697a653d32342670617573653d3130303026636f6c6f723d4637303030302663656e7465723d74727565267643656e7465723d747275652677696474683d343335266c696e65733d48692b49276d2b4d7568616d6d61642b53617169622b4b68616e3b46726f6e74656e642b446576656c6f7065723b492b6275696c642b636f6f6c2b776562736974657321" alt="Typing Animation" data-canonical-src="https://readme-typing-svg.demolab.com?font=Fira+Code&amp;size=24&amp;pause=1000&amp;color=F70000&amp;center=true&amp;vCenter=true&amp;width=435&amp;lines=Hi+I'm+Muhammad+Saqib+Khan;Frontend+Developer;I+build+cool+websites!" style="max-width: 100%;"></a></p>
+<div class="markdown-heading" dir="auto"><h1 class="heading-element" dir="auto">👋 Hi, I’m Abiha Sheikhani</h1><a id="user-content--hi-im-muhammad-saqib-khan" class="anchor" aria-label="Permalink: 👋 Hi, I’m Abiha Sheikhani" href="#-hi-im-muhammad-saqib-khan"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
 <center><image align="center" src="https://i.pinimg.com/originals/e7/26/c7/e726c74ac081eed50feee1433d12c998.gif"  alt="codinggirlimg" height="500" width="1000"></center>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=abiha-sheikhani&label=Profile%20views&color=0e75b6&style=flat" alt="abiha-sheikhani" /> </p>
 
-- 🌱 I’m currently learning **Mern Stack Development**
+<p dir="auto">I'm a passionate <strong>Frontend Developer</strong> who loves building clean, modern, and responsive websites using:</p>
+<ul dir="auto">
+<li>✅ HTML</li>
+<li>✅ CSS</li>
+<li>✅ JavaScript</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🚀 About Me</h2><a id="user-content--about-me" class="anchor" aria-label="Permalink: 🚀 About Me" href="#-about-me"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li>🔭 I enjoy creating interactive and user-friendly web interfaces.</li>
+<li>🌱 Currently improving my skills by building real-world projects & learning <strong> MERN </strong> Stack Deveopment.</li>
+<li>💡 Always open to learning new technologies and best practices.</li>
+<li>📫 You can reach me on:<br>
+<a href="https://www.linkedin.com/in/abiha-sheikhani-7229aa317/" rel="nofollow">💼 LinkedIn</a></li>
+</ul>
 
-- 💬 Ask me about **FrontEnd Development**
-
-- 📫 How to reach me **abihajawed345@gmail.com**
-
-<h3 align="left">Connect with me:</h3>
-<p align="left">
-<a href="https://www.linkedin.com/in/abiha-sheikhani-7229aa317" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abiha-sheikhani" height="30" width="40" /></a>
-<a href="https://www.instagram.com/abiha_sheikhani/?hl=en" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="abiha-sheikhani" height="30" width="40" /></a>
-</p>
-
-<h3 align="left">Languages and Tools:</h3>
-<p align="left"> <a href="https://getbootstrap.com" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/> </a> <a href="https://www.w3schools.com/css/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original-wordmark.svg" alt="css3" width="40" height="40"/> </a> <a href="https://www.figma.com/" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/figma/figma-icon.svg" alt="figma" width="40" height="40"/> </a> <a href="https://www.w3.org/html/" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original-wordmark.svg" alt="html5" width="40" height="40"/> </a> <a href="https://www.adobe.com/in/products/illustrator.html" target="_blank" rel="noreferrer"> <img src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" alt="illustrator" width="40" height="40"/> </a> <a href="https://www.photoshop.com/en" target="_blank" rel="noreferrer"> <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> </p>
-
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=abiha-sheikhani&show_icons=true&locale=en&layout=compact" alt="abiha-sheikhani" /></p>
-
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abiha-sheikhani&show_icons=true&locale=en" alt="abiha-sheikhani" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abiha-sheikhani&" alt="abiha-sheikhani" /></p>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">🛠️ Tools &amp; Technologies</h2><a id="user-content-️-tools--technologies" class="anchor" aria-label="Permalink: 🛠️ Tools &amp; Technologies" href="#️-tools--technologies"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<ul dir="auto">
+<li>💻 Languages: HTML, CSS, JavaScript</li>
+<li>🧩 Frameworks/Libraries: Bootstrap, Animate.CSS etc.</li>
+<li>🔧 Tools: VS Code, Git, GitHub</li>
+</ul>
+<div class="markdown-heading" dir="auto"><h2 class="heading-element" dir="auto">📈 GitHub Stats</h2><a id="user-content--github-stats" class="anchor" aria-label="Permalink: 📈 GitHub Stats" href="#-github-stats"><svg class="octicon octicon-link" viewBox="0 0 16 16" version="1.1" width="16" height="16" aria-hidden="true"><path d="m7.775 3.275 1.25-1.25a3.5 3.5 0 1 1 4.95 4.95l-2.5 2.5a3.5 3.5 0 0 1-4.95 0 .751.751 0 0 1 .018-1.042.751.751 0 0 1 1.042-.018 1.998 1.998 0 0 0 2.83 0l2.5-2.5a2.002 2.002 0 0 0-2.83-2.83l-1.25 1.25a.751.751 0 0 1-1.042-.018.751.751 0 0 1-.018-1.042Zm-4.69 9.64a1.998 1.998 0 0 0 2.83 0l1.25-1.25a.751.751 0 0 1 1.042.018.751.751 0 0 1 .018 1.042l-1.25 1.25a3.5 3.5 0 1 1-4.95-4.95l2.5-2.5a3.5 3.5 0 0 1 4.95 0 .751.751 0 0 1-.018 1.042.751.751 0 0 1-1.042.018 1.998 1.998 0 0 0-2.83 0l-2.5 2.5a1.998 1.998 0 0 0 0 2.83Z"></path></svg></a></div>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/75170565a59ad12d22f817d5a509548adcd20e33bca1657dfb0825b796fc509d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d53617169624b68616e3030302673686f775f69636f6e733d74727565267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/75170565a59ad12d22f817d5a509548adcd20e33bca1657dfb0825b796fc509d/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170693f757365726e616d653d53617169624b68616e3030302673686f775f69636f6e733d74727565267468656d653d7261646963616c" alt="Abiha's GitHub stats" data-canonical-src="https://github-readme-stats.vercel.app/api?username=SaqibKhan000&amp;show_icons=true&amp;theme=radical" style="max-width: 100%;"></a></p>
+<p dir="auto"><a target="_blank" rel="noopener noreferrer nofollow" href="https://camo.githubusercontent.com/8ed8c365a30d26bbf6176509381d20a16d5c1363536612c0d7bf81334bd8ee0c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d53617169624b68616e303030266c61796f75743d636f6d70616374267468656d653d7261646963616c"><img src="https://camo.githubusercontent.com/8ed8c365a30d26bbf6176509381d20a16d5c1363536612c0d7bf81334bd8ee0c/68747470733a2f2f6769746875622d726561646d652d73746174732e76657263656c2e6170702f6170692f746f702d6c616e67732f3f757365726e616d653d53617169624b68616e303030266c61796f75743d636f6d70616374267468656d653d7261646963616c" alt="Top Langs" data-canonical-src="https://github-readme-stats.vercel.app/api/top-langs/?username=SaqibKhan000&amp;layout=compact&amp;theme=radical" style="max-width: 100%;"></a></p>
+<hr>
+<p dir="auto">Thanks for visiting my profile! 😊</p>
+</article>
+  </div>
