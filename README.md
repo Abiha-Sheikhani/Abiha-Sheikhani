@@ -1,33 +1,82 @@
-# Hi, I'm Abiha 👋
-
-Full Stack Developer based in Pakistan 🇵🇰 — I build clean, fast, and thoughtful web apps using the MERN stack.
-
-Currently learning **Next.js** and **TypeScript**. Open to work.
-
----
-
-### 🛠 Tech Stack
-
-**Frontend** — React.js · Next.js · JavaScript · TypeScript · Tailwind CSS · Framer Motion · Redux · Vite
-
-**Backend** — Node.js · Express.js · GraphQL · Firebase
-
-**Database & Tools** — MongoDB · Git · GitHub · Figma · Postman · VS Code
-
----
-
-### 📊 Stats
+<div align="center">
+  <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=E0FF00&height=150&section=header&text=Abiha%20Sheikhani&fontSize=50&fontColor=0a0a0a&fontAlignY=38&desc=Full%20Stack%20Developer%20%7C%20MERN%20Stack&descAlignY=58&descSize=18&descFontColor=0a0a0a&animation=fadeIn"/>
+</div>
 
 <div align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abiha-Sheikhani&show_icons=true&theme=dark&bg_color=0d1117&border_color=30363d&title_color=ffffff&icon_color=E0FF00&text_color=cccccc&count_private=true" />
-  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Abiha-Sheikhani&theme=dark&background=0d1117&border=30363d&ring=E0FF00&fire=E0FF00&currStreakLabel=ffffff&sideLabels=ffffff&dates=888888" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=22&pause=1000&color=E0FF00&center=true&vCenter=true&width=600&lines=Full+Stack+MERN+Developer+%F0%9F%9A%80;Building+things+for+the+web+%E2%9C%A8;Always+learning%2C+always+shipping+%F0%9F%93%A6" alt="Typing SVG" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://img.shields.io/badge/Stack-MERN-E0FF00?style=flat-square&labelColor=0a0a0a"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Based%20In-Pakistan%20🇵🇰-E0FF00?style=flat-square&labelColor=0a0a0a"/>
+  &nbsp;
+  <img src="https://img.shields.io/badge/Status-Open%20to%20Work-E0FF00?style=flat-square&labelColor=0a0a0a"/>
+  &nbsp;
+  <img src="https://komarev.com/ghpvc/?username=Abiha-Sheikhani&style=flat-square&color=E0FF00&label=Views&labelColor=0a0a0a"/>
 </div>
 
 ---
 
-### 📬 Let's Connect
+## 🛠 Tech Stack
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/abiha-sheikhani-7229aa317/)
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white)](https://www.instagram.com/debugwithabiha/)
-[![Portfolio](https://img.shields.io/badge/Portfolio-E0FF00?style=flat-square&logo=vercel&logoColor=black)](https://abiha-sheikhani.netlify.app)
-[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:abihajawed345@gmail.com)
+**Frontend**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=react,nextjs,js,ts,html,css,tailwind,redux,vite&theme=dark" />
+</div>
+
+**Backend**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=nodejs,express,graphql,firebase&theme=dark" />
+</div>
+
+**Database & Tools**
+<div align="left">
+  <img src="https://skillicons.dev/icons?i=mongodb,git,github,vscode,figma,postman&theme=dark" />
+</div>
+
+---
+
+## 📊 GitHub Stats
+
+<div align="center">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abiha-Sheikhani&show_icons=true&theme=dark&bg_color=0d1117&border_color=E0FF00&title_color=E0FF00&icon_color=E0FF00&text_color=ffffff&count_private=true" />
+  &nbsp;
+  <img width="48%" src="https://github-readme-streak-stats.herokuapp.com?user=Abiha-Sheikhani&theme=dark&background=0d1117&border=E0FF00&ring=E0FF00&fire=E0FF00&currStreakLabel=E0FF00&sideLabels=E0FF00&dates=888888" />
+</div>
+
+<br/>
+
+<div align="center">
+  <img width="96%" src="https://github-readme-activity-graph.vercel.app/graph?username=Abiha-Sheikhani&bg_color=0d1117&color=E0FF00&line=E0FF00&point=ffffff&area=true&area_color=E0FF00&hide_border=false&border_color=E0FF00&custom_title=Contribution%20Graph" />
+</div>
+
+---
+
+## 🌐 Connect
+
+<div align="center">
+  <a href="https://www.linkedin.com/in/abiha-sheikhani-7229aa317/">
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://www.instagram.com/debugwithabiha/">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="mailto:abihajawed345@gmail.com">
+    <img src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"/>
+  </a>
+  &nbsp;
+  <a href="https://abiha-sheikhani.netlify.app">
+    <img src="https://img.shields.io/badge/Portfolio-E0FF00?style=for-the-badge&logo=vercel&logoColor=black"/>
+  </a>
+</div>
+
+<br/>
+
+<div align="center">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=E0FF00&height=100&section=footer"/>
+</div>
